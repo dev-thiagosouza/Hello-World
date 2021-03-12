@@ -3,4 +3,4 @@
  
  Meu primeiro repositório, criado durante uma aula ao vivo.
  
-Linha criada diretamente pelo site do GitHub
+Essa linha foi criada diretamente pelo site do GitHub
